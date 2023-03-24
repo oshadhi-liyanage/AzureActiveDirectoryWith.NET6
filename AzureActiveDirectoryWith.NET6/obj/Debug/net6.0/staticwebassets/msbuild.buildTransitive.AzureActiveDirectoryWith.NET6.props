@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AzureActiveDirectoryWith.NET6.props" />
+</Project>
