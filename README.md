@@ -6,7 +6,7 @@
 * SDK 6.0 
 * Azure Account
 
-## SetUp the Project_
+## SetUp the Project
 
 1) Register an application in Azure Active directory.
 2) Create .NET 6 Web application
